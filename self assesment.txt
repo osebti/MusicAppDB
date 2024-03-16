@@ -1,0 +1,40 @@
+Group members 
+(mark with * the member whose submission is assessed)
+  1. James Laidlaw - laidlaw
+  2. Othman Sebti - osebti
+  3. Eric Kim - dek
+
+For each section in the marking, test your project and mark it as 'pass', 'partial pass', 'fail'.
+
+Self-test result
+
+1. General
+ a)Pass
+
+2. Login 
+ a)Pass
+ b)Pass
+ c)Pass
+ d)Pass
+ e)Pass
+ f)Pass
+ g)Pass
+
+3. User menu functionality
+  a)Pass
+  b)Pass
+  c)Pass
+  d)Pass
+  e)Pass
+  f)Pass
+  g)Pass
+  h)Pass
+  i)Pass
+  j)Pass
+
+4. Artist menu functionality
+  a)partial pass
+  b)Pass
+  c)partial pass
+  d)pass
+
